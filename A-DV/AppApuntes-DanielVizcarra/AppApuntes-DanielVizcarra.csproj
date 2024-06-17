@@ -57,15 +57,6 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <AndroidResource Remove="NewFolder\**" />
-	  <Compile Remove="NewFolder\**" />
-	  <EmbeddedResource Remove="NewFolder\**" />
-	  <MauiCss Remove="NewFolder\**" />
-	  <MauiXaml Remove="NewFolder\**" />
-	  <None Remove="NewFolder\**" />
-	</ItemGroup>
-
-	<ItemGroup>
 	  <None Remove="Resources\Images\icon_about.png" />
 	  <None Remove="Resources\Images\icon_about_ios.png" />
 	  <None Remove="Resources\Images\icon_notes.png" />
@@ -73,6 +64,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
+		<PackageReference Include="CommunityToolkit.Mvvm" Version="8.2.2" />
 		<PackageReference Include="Microsoft.Maui.Controls" Version="$(MauiVersion)" />
 		<PackageReference Include="Microsoft.Maui.Controls.Compatibility" Version="$(MauiVersion)" />
 		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="8.0.0" />

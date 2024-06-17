@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppApuntes-DanielVizcarra")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+66347c7c6253ab747879487b1f7010778f351c24")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+0f4c2bb33f554f86193a0f540fc26057c667e74d")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppApuntes-DanielVizcarra")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppApuntes-DanielVizcarra")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

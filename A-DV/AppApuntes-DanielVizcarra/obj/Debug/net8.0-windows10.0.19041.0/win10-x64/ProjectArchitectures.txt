@@ -1,1 +1,1 @@
-C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\AppApuntes-DanielVizcarra.csproj;x64
+C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\AppApuntes-DanielVizcarra.csproj;x64

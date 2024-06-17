@@ -1,65 +1,77 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Daniel\\Documents\\GitHub\\AppApuntesDV-DanielVizcarra\\A-DV\\",
+  "WorkspaceRootPath": "C:\\Users\\Daniel\\Documents\\GitHub\\Vizcarra_TareaMVVM\\A-DV\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|c:\\users\\daniel\\documents\\github\\appapuntesdv-danielvizcarra\\a-dv\\appapuntes-danielvizcarra\\models\\notedv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|solutionrelative:appapuntes-danielvizcarra\\models\\notedv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|c:\\users\\daniel\\documents\\github\\appapuntesdv-danielvizcarra\\a-dv\\appapuntes-danielvizcarra\\appapuntes-danielvizcarra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|solutionrelative:appapuntes-danielvizcarra\\appapuntes-danielvizcarra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|c:\\users\\daniel\\documents\\github\\appapuntesdv-danielvizcarra\\a-dv\\appapuntes-danielvizcarra\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|solutionrelative:appapuntes-danielvizcarra\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|c:\\users\\daniel\\documents\\github\\appapuntesdv-danielvizcarra\\a-dv\\appapuntes-danielvizcarra\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|solutionrelative:appapuntes-danielvizcarra\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|c:\\users\\daniel\\documents\\github\\appapuntesdv-danielvizcarra\\a-dv\\appapuntes-danielvizcarra\\views\\aboutpagedv.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|solutionrelative:appapuntes-danielvizcarra\\views\\aboutpagedv.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|c:\\users\\daniel\\documents\\github\\appapuntesdv-danielvizcarra\\a-dv\\appapuntes-danielvizcarra\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|solutionrelative:appapuntes-danielvizcarra\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|c:\\users\\daniel\\documents\\github\\appapuntesdv-danielvizcarra\\a-dv\\appapuntes-danielvizcarra\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|solutionrelative:appapuntes-danielvizcarra\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|c:\\users\\daniel\\documents\\github\\appapuntesdv-danielvizcarra\\a-dv\\appapuntes-danielvizcarra\\views\\notepagedv.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
-      "RelativeMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|solutionrelative:appapuntes-danielvizcarra\\views\\notepagedv.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|c:\\users\\daniel\\documents\\github\\appapuntesdv-danielvizcarra\\a-dv\\appapuntes-danielvizcarra\\views\\notepagedv.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|solutionrelative:appapuntes-danielvizcarra\\views\\notepagedv.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|c:\\users\\daniel\\documents\\github\\appapuntesdv-danielvizcarra\\a-dv\\appapuntes-danielvizcarra\\views\\allnotespagedv.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|c:\\users\\daniel\\documents\\github\\vizcarra_tareamvvm\\a-dv\\appapuntes-danielvizcarra\\views\\allnotespagedv.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|solutionrelative:appapuntes-danielvizcarra\\views\\allnotespagedv.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|c:\\users\\daniel\\documents\\github\\appapuntesdv-danielvizcarra\\a-dv\\appapuntes-danielvizcarra\\views\\allnotespagedv.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|c:\\users\\daniel\\documents\\github\\vizcarra_tareamvvm\\a-dv\\appapuntes-danielvizcarra\\views\\allnotespagedv.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|solutionrelative:appapuntes-danielvizcarra\\views\\allnotespagedv.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|c:\\users\\daniel\\documents\\github\\appapuntesdv-danielvizcarra\\a-dv\\appapuntes-danielvizcarra\\models\\allnotesdv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|solutionrelative:appapuntes-danielvizcarra\\models\\allnotesdv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|c:\\users\\daniel\\documents\\github\\vizcarra_tareamvvm\\a-dv\\appapuntes-danielvizcarra\\viewmodelsdv\\notesviewmodeldv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|solutionrelative:appapuntes-danielvizcarra\\viewmodelsdv\\notesviewmodeldv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|c:\\users\\daniel\\documents\\github\\appapuntesdv-danielvizcarra\\a-dv\\appapuntes-danielvizcarra\\models\\aboutdv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|solutionrelative:appapuntes-danielvizcarra\\models\\aboutdv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|c:\\users\\daniel\\documents\\github\\vizcarra_tareamvvm\\a-dv\\appapuntes-danielvizcarra\\viewmodelsdv\\noteviewmodeldv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|solutionrelative:appapuntes-danielvizcarra\\viewmodelsdv\\noteviewmodeldv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|c:\\users\\daniel\\documents\\github\\appapuntesdv-danielvizcarra\\a-dv\\appapuntes-danielvizcarra\\views\\aboutpagedv.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|c:\\users\\daniel\\documents\\github\\vizcarra_tareamvvm\\a-dv\\appapuntes-danielvizcarra\\viewmodelsdv\\aboutviewmodeldv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|solutionrelative:appapuntes-danielvizcarra\\viewmodelsdv\\aboutviewmodeldv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|c:\\users\\daniel\\documents\\github\\vizcarra_tareamvvm\\a-dv\\appapuntes-danielvizcarra\\views\\aboutpagedv.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|solutionrelative:appapuntes-danielvizcarra\\views\\aboutpagedv.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|c:\\users\\daniel\\documents\\github\\vizcarra_tareamvvm\\a-dv\\appapuntes-danielvizcarra\\views\\notepagedv.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|solutionrelative:appapuntes-danielvizcarra\\views\\notepagedv.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|c:\\users\\daniel\\documents\\github\\vizcarra_tareamvvm\\a-dv\\appapuntes-danielvizcarra\\views\\aboutpagedv.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|solutionrelative:appapuntes-danielvizcarra\\views\\aboutpagedv.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|c:\\users\\daniel\\documents\\github\\appapuntesdv-danielvizcarra\\a-dv\\appapuntes-danielvizcarra\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|c:\\users\\daniel\\documents\\github\\vizcarra_tareamvvm\\a-dv\\appapuntes-danielvizcarra\\views\\notepagedv.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|solutionrelative:appapuntes-danielvizcarra\\views\\notepagedv.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|c:\\users\\daniel\\documents\\github\\vizcarra_tareamvvm\\a-dv\\appapuntes-danielvizcarra\\models\\notedv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|solutionrelative:appapuntes-danielvizcarra\\models\\notedv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|c:\\users\\daniel\\documents\\github\\vizcarra_tareamvvm\\a-dv\\appapuntes-danielvizcarra\\appapuntes-danielvizcarra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|solutionrelative:appapuntes-danielvizcarra\\appapuntes-danielvizcarra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|c:\\users\\daniel\\documents\\github\\vizcarra_tareamvvm\\a-dv\\appapuntes-danielvizcarra\\models\\allnotesdv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|solutionrelative:appapuntes-danielvizcarra\\models\\allnotesdv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|c:\\users\\daniel\\documents\\github\\vizcarra_tareamvvm\\a-dv\\appapuntes-danielvizcarra\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|solutionrelative:appapuntes-danielvizcarra\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|c:\\users\\daniel\\documents\\github\\vizcarra_tareamvvm\\a-dv\\appapuntes-danielvizcarra\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|solutionrelative:appapuntes-danielvizcarra\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|c:\\users\\daniel\\documents\\github\\vizcarra_tareamvvm\\a-dv\\appapuntes-danielvizcarra\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|solutionrelative:appapuntes-danielvizcarra\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|c:\\users\\daniel\\documents\\github\\vizcarra_tareamvvm\\a-dv\\appapuntes-danielvizcarra\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|solutionrelative:appapuntes-danielvizcarra\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|c:\\users\\daniel\\documents\\github\\vizcarra_tareamvvm\\a-dv\\appapuntes-danielvizcarra\\models\\aboutdv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|solutionrelative:appapuntes-danielvizcarra\\models\\aboutdv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|c:\\users\\daniel\\documents\\github\\vizcarra_tareamvvm\\a-dv\\appapuntes-danielvizcarra\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88C64BD7-065A-4F9F-929F-E53F33841AC6}|AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj|solutionrelative:appapuntes-danielvizcarra\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -81,110 +93,130 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AllNotesPageDV.xaml",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\AppApuntesDV-DanielVizcarra\\A-DV\\AppApuntes-DanielVizcarra\\Views\\AllNotesPageDV.xaml",
-              "RelativeDocumentMoniker": "AppApuntes-DanielVizcarra\\Views\\AllNotesPageDV.xaml",
-              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\AppApuntesDV-DanielVizcarra\\A-DV\\AppApuntes-DanielVizcarra\\Views\\AllNotesPageDV.xaml",
-              "RelativeToolTip": "AppApuntes-DanielVizcarra\\Views\\AllNotesPageDV.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-30T04:17:51.009Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "AboutPageDV.xaml",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\AppApuntesDV-DanielVizcarra\\A-DV\\AppApuntes-DanielVizcarra\\Views\\AboutPageDV.xaml",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Vizcarra_TareaMVVM\\A-DV\\AppApuntes-DanielVizcarra\\Views\\AboutPageDV.xaml",
               "RelativeDocumentMoniker": "AppApuntes-DanielVizcarra\\Views\\AboutPageDV.xaml",
-              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\AppApuntesDV-DanielVizcarra\\A-DV\\AppApuntes-DanielVizcarra\\Views\\AboutPageDV.xaml",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Vizcarra_TareaMVVM\\A-DV\\AppApuntes-DanielVizcarra\\Views\\AboutPageDV.xaml",
               "RelativeToolTip": "AppApuntes-DanielVizcarra\\Views\\AboutPageDV.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-30T02:49:23.025Z"
+              "WhenOpened": "2024-05-30T02:49:23.025Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AllNotesDV.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\AppApuntesDV-DanielVizcarra\\A-DV\\AppApuntes-DanielVizcarra\\Models\\AllNotesDV.cs",
-              "RelativeDocumentMoniker": "AppApuntes-DanielVizcarra\\Models\\AllNotesDV.cs",
-              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\AppApuntesDV-DanielVizcarra\\A-DV\\AppApuntes-DanielVizcarra\\Models\\AllNotesDV.cs",
-              "RelativeToolTip": "AppApuntes-DanielVizcarra\\Models\\AllNotesDV.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAgAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T04:18:06.43Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AboutDV.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\AppApuntesDV-DanielVizcarra\\A-DV\\AppApuntes-DanielVizcarra\\Models\\AboutDV.cs",
-              "RelativeDocumentMoniker": "AppApuntes-DanielVizcarra\\Models\\AboutDV.cs",
-              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\AppApuntesDV-DanielVizcarra\\A-DV\\AppApuntes-DanielVizcarra\\Models\\AboutDV.cs",
-              "RelativeToolTip": "AppApuntes-DanielVizcarra\\Models\\AboutDV.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T04:10:06.655Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 7,
               "Title": "AboutPageDV.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\AppApuntesDV-DanielVizcarra\\A-DV\\AppApuntes-DanielVizcarra\\Views\\AboutPageDV.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Vizcarra_TareaMVVM\\A-DV\\AppApuntes-DanielVizcarra\\Views\\AboutPageDV.xaml.cs",
               "RelativeDocumentMoniker": "AppApuntes-DanielVizcarra\\Views\\AboutPageDV.xaml.cs",
-              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\AppApuntesDV-DanielVizcarra\\A-DV\\AppApuntes-DanielVizcarra\\Views\\AboutPageDV.xaml.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Vizcarra_TareaMVVM\\A-DV\\AppApuntes-DanielVizcarra\\Views\\AboutPageDV.xaml.cs",
               "RelativeToolTip": "AppApuntes-DanielVizcarra\\Views\\AboutPageDV.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T02:51:39.211Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "NoteDV.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\AppApuntesDV-DanielVizcarra\\A-DV\\AppApuntes-DanielVizcarra\\Models\\NoteDV.cs",
-              "RelativeDocumentMoniker": "AppApuntes-DanielVizcarra\\Models\\NoteDV.cs",
-              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\AppApuntesDV-DanielVizcarra\\A-DV\\AppApuntes-DanielVizcarra\\Models\\NoteDV.cs",
-              "RelativeToolTip": "AppApuntes-DanielVizcarra\\Models\\NoteDV.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T04:09:29.702Z",
+              "WhenOpened": "2024-05-30T02:51:39.211Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\AppApuntesDV-DanielVizcarra\\A-DV\\AppApuntes-DanielVizcarra\\App.xaml",
-              "RelativeDocumentMoniker": "AppApuntes-DanielVizcarra\\App.xaml",
-              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\AppApuntesDV-DanielVizcarra\\A-DV\\AppApuntes-DanielVizcarra\\App.xaml",
-              "RelativeToolTip": "AppApuntes-DanielVizcarra\\App.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-30T03:02:16.007Z"
+              "Title": "NoteViewModelDV.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Vizcarra_TareaMVVM\\A-DV\\AppApuntes-DanielVizcarra\\ViewModelsDV\\NoteViewModelDV.cs",
+              "RelativeDocumentMoniker": "AppApuntes-DanielVizcarra\\ViewModelsDV\\NoteViewModelDV.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Vizcarra_TareaMVVM\\A-DV\\AppApuntes-DanielVizcarra\\ViewModelsDV\\NoteViewModelDV.cs",
+              "RelativeToolTip": "AppApuntes-DanielVizcarra\\ViewModelsDV\\NoteViewModelDV.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T01:41:23.399Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\AppApuntesDV-DanielVizcarra\\A-DV\\AppApuntes-DanielVizcarra\\App.xaml.cs",
-              "RelativeDocumentMoniker": "AppApuntes-DanielVizcarra\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\AppApuntesDV-DanielVizcarra\\A-DV\\AppApuntes-DanielVizcarra\\App.xaml.cs",
-              "RelativeToolTip": "AppApuntes-DanielVizcarra\\App.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 6,
+              "Title": "NotePageDV.xaml",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Vizcarra_TareaMVVM\\A-DV\\AppApuntes-DanielVizcarra\\Views\\NotePageDV.xaml",
+              "RelativeDocumentMoniker": "AppApuntes-DanielVizcarra\\Views\\NotePageDV.xaml",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Vizcarra_TareaMVVM\\A-DV\\AppApuntes-DanielVizcarra\\Views\\NotePageDV.xaml",
+              "RelativeToolTip": "AppApuntes-DanielVizcarra\\Views\\NotePageDV.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-30T03:11:37.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NotePageDV.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Vizcarra_TareaMVVM\\A-DV\\AppApuntes-DanielVizcarra\\Views\\NotePageDV.xaml.cs",
+              "RelativeDocumentMoniker": "AppApuntes-DanielVizcarra\\Views\\NotePageDV.xaml.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Vizcarra_TareaMVVM\\A-DV\\AppApuntes-DanielVizcarra\\Views\\NotePageDV.xaml.cs",
+              "RelativeToolTip": "AppApuntes-DanielVizcarra\\Views\\NotePageDV.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T04:04:13.284Z"
+              "WhenOpened": "2024-05-30T03:12:49.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AllNotesPageDV.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Vizcarra_TareaMVVM\\A-DV\\AppApuntes-DanielVizcarra\\Views\\AllNotesPageDV.xaml.cs",
+              "RelativeDocumentMoniker": "AppApuntes-DanielVizcarra\\Views\\AllNotesPageDV.xaml.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Vizcarra_TareaMVVM\\A-DV\\AppApuntes-DanielVizcarra\\Views\\AllNotesPageDV.xaml.cs",
+              "RelativeToolTip": "AppApuntes-DanielVizcarra\\Views\\AllNotesPageDV.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T04:21:22.48Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "AllNotesPageDV.xaml",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Vizcarra_TareaMVVM\\A-DV\\AppApuntes-DanielVizcarra\\Views\\AllNotesPageDV.xaml",
+              "RelativeDocumentMoniker": "AppApuntes-DanielVizcarra\\Views\\AllNotesPageDV.xaml",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Vizcarra_TareaMVVM\\A-DV\\AppApuntes-DanielVizcarra\\Views\\AllNotesPageDV.xaml",
+              "RelativeToolTip": "AppApuntes-DanielVizcarra\\Views\\AllNotesPageDV.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-30T04:17:51.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotesViewModelDV.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Vizcarra_TareaMVVM\\A-DV\\AppApuntes-DanielVizcarra\\ViewModelsDV\\NotesViewModelDV.cs",
+              "RelativeDocumentMoniker": "AppApuntes-DanielVizcarra\\ViewModelsDV\\NotesViewModelDV.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Vizcarra_TareaMVVM\\A-DV\\AppApuntes-DanielVizcarra\\ViewModelsDV\\NotesViewModelDV.cs",
+              "RelativeToolTip": "AppApuntes-DanielVizcarra\\ViewModelsDV\\NotesViewModelDV.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAIwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T01:41:38.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AboutViewModelDV.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Vizcarra_TareaMVVM\\A-DV\\AppApuntes-DanielVizcarra\\ViewModelsDV\\AboutViewModelDV.cs",
+              "RelativeDocumentMoniker": "AppApuntes-DanielVizcarra\\ViewModelsDV\\AboutViewModelDV.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Vizcarra_TareaMVVM\\A-DV\\AppApuntes-DanielVizcarra\\ViewModelsDV\\AboutViewModelDV.cs",
+              "RelativeToolTip": "AppApuntes-DanielVizcarra\\ViewModelsDV\\AboutViewModelDV.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T01:58:22.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "AppApuntes-DanielVizcarra.csproj",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\AppApuntesDV-DanielVizcarra\\A-DV\\AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Vizcarra_TareaMVVM\\A-DV\\AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj",
               "RelativeDocumentMoniker": "AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj",
-              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\AppApuntesDV-DanielVizcarra\\A-DV\\AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Vizcarra_TareaMVVM\\A-DV\\AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj",
               "RelativeToolTip": "AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF0AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-05-30T03:33:09.568Z",
               "EditorCaption": ""
@@ -192,23 +224,75 @@
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "AllNotesPageDV.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\AppApuntesDV-DanielVizcarra\\A-DV\\AppApuntes-DanielVizcarra\\Views\\AllNotesPageDV.xaml.cs",
-              "RelativeDocumentMoniker": "AppApuntes-DanielVizcarra\\Views\\AllNotesPageDV.xaml.cs",
-              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\AppApuntesDV-DanielVizcarra\\A-DV\\AppApuntes-DanielVizcarra\\Views\\AllNotesPageDV.xaml.cs",
-              "RelativeToolTip": "AppApuntes-DanielVizcarra\\Views\\AllNotesPageDV.xaml.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAgwCMAAAABAAAA",
+              "Title": "NoteDV.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Vizcarra_TareaMVVM\\A-DV\\AppApuntes-DanielVizcarra\\Models\\NoteDV.cs",
+              "RelativeDocumentMoniker": "AppApuntes-DanielVizcarra\\Models\\NoteDV.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Vizcarra_TareaMVVM\\A-DV\\AppApuntes-DanielVizcarra\\Models\\NoteDV.cs",
+              "RelativeToolTip": "AppApuntes-DanielVizcarra\\Models\\NoteDV.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T04:21:22.48Z",
+              "WhenOpened": "2024-05-30T04:09:29.702Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 16,
+              "Title": "AboutDV.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Vizcarra_TareaMVVM\\A-DV\\AppApuntes-DanielVizcarra\\Models\\AboutDV.cs",
+              "RelativeDocumentMoniker": "AppApuntes-DanielVizcarra\\Models\\AboutDV.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Vizcarra_TareaMVVM\\A-DV\\AppApuntes-DanielVizcarra\\Models\\AboutDV.cs",
+              "RelativeToolTip": "AppApuntes-DanielVizcarra\\Models\\AboutDV.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T04:10:06.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AllNotesDV.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Vizcarra_TareaMVVM\\A-DV\\AppApuntes-DanielVizcarra\\Models\\AllNotesDV.cs",
+              "RelativeDocumentMoniker": "AppApuntes-DanielVizcarra\\Models\\AllNotesDV.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Vizcarra_TareaMVVM\\A-DV\\AppApuntes-DanielVizcarra\\Models\\AllNotesDV.cs",
+              "RelativeToolTip": "AppApuntes-DanielVizcarra\\Models\\AllNotesDV.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T04:18:06.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Vizcarra_TareaMVVM\\A-DV\\AppApuntes-DanielVizcarra\\App.xaml",
+              "RelativeDocumentMoniker": "AppApuntes-DanielVizcarra\\App.xaml",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Vizcarra_TareaMVVM\\A-DV\\AppApuntes-DanielVizcarra\\App.xaml",
+              "RelativeToolTip": "AppApuntes-DanielVizcarra\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-30T03:02:16.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Vizcarra_TareaMVVM\\A-DV\\AppApuntes-DanielVizcarra\\App.xaml.cs",
+              "RelativeDocumentMoniker": "AppApuntes-DanielVizcarra\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Vizcarra_TareaMVVM\\A-DV\\AppApuntes-DanielVizcarra\\App.xaml.cs",
+              "RelativeToolTip": "AppApuntes-DanielVizcarra\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T04:04:13.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "AppShell.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\AppApuntesDV-DanielVizcarra\\A-DV\\AppApuntes-DanielVizcarra\\AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Vizcarra_TareaMVVM\\A-DV\\AppApuntes-DanielVizcarra\\AppShell.xaml.cs",
               "RelativeDocumentMoniker": "AppApuntes-DanielVizcarra\\AppShell.xaml.cs",
-              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\AppApuntesDV-DanielVizcarra\\A-DV\\AppApuntes-DanielVizcarra\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Vizcarra_TareaMVVM\\A-DV\\AppApuntes-DanielVizcarra\\AppShell.xaml.cs",
               "RelativeToolTip": "AppApuntes-DanielVizcarra\\AppShell.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -217,11 +301,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 15,
               "Title": "AppShell.xaml",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\AppApuntesDV-DanielVizcarra\\A-DV\\AppApuntes-DanielVizcarra\\AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Vizcarra_TareaMVVM\\A-DV\\AppApuntes-DanielVizcarra\\AppShell.xaml",
               "RelativeDocumentMoniker": "AppApuntes-DanielVizcarra\\AppShell.xaml",
-              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\AppApuntesDV-DanielVizcarra\\A-DV\\AppApuntes-DanielVizcarra\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Vizcarra_TareaMVVM\\A-DV\\AppApuntes-DanielVizcarra\\AppShell.xaml",
               "RelativeToolTip": "AppApuntes-DanielVizcarra\\AppShell.xaml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
@@ -230,37 +314,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "NotePageDV.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\AppApuntesDV-DanielVizcarra\\A-DV\\AppApuntes-DanielVizcarra\\Views\\NotePageDV.xaml.cs",
-              "RelativeDocumentMoniker": "AppApuntes-DanielVizcarra\\Views\\NotePageDV.xaml.cs",
-              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\AppApuntesDV-DanielVizcarra\\A-DV\\AppApuntes-DanielVizcarra\\Views\\NotePageDV.xaml.cs",
-              "RelativeToolTip": "AppApuntes-DanielVizcarra\\Views\\NotePageDV.xaml.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAowA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T03:12:49.785Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "NotePageDV.xaml",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\AppApuntesDV-DanielVizcarra\\A-DV\\AppApuntes-DanielVizcarra\\Views\\NotePageDV.xaml",
-              "RelativeDocumentMoniker": "AppApuntes-DanielVizcarra\\Views\\NotePageDV.xaml",
-              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\AppApuntesDV-DanielVizcarra\\A-DV\\AppApuntes-DanielVizcarra\\Views\\NotePageDV.xaml",
-              "RelativeToolTip": "AppApuntes-DanielVizcarra\\Views\\NotePageDV.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-30T03:11:37.982Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "MauiProgram.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\AppApuntesDV-DanielVizcarra\\A-DV\\AppApuntes-DanielVizcarra\\MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Vizcarra_TareaMVVM\\A-DV\\AppApuntes-DanielVizcarra\\MauiProgram.cs",
               "RelativeDocumentMoniker": "AppApuntes-DanielVizcarra\\MauiProgram.cs",
-              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\AppApuntesDV-DanielVizcarra\\A-DV\\AppApuntes-DanielVizcarra\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Vizcarra_TareaMVVM\\A-DV\\AppApuntes-DanielVizcarra\\MauiProgram.cs",
               "RelativeToolTip": "AppApuntes-DanielVizcarra\\MauiProgram.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -269,7 +327,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "Microsoft.UI.Xaml.Markup.Compiler.interop.targets",
               "DocumentMoniker": "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.windowsappsdk\\1.3.230724000\\buildTransitive\\Microsoft.UI.Xaml.Markup.Compiler.interop.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\.nuget\\packages\\microsoft.windowsappsdk\\1.3.230724000\\buildTransitive\\Microsoft.UI.Xaml.Markup.Compiler.interop.targets",
@@ -277,7 +335,8 @@
               "RelativeToolTip": "..\\..\\..\\..\\.nuget\\packages\\microsoft.windowsappsdk\\1.3.230724000\\buildTransitive\\Microsoft.UI.Xaml.Markup.Compiler.interop.targets",
               "ViewState": "AQIAAGUBAAAAAAAAAAAnwHkBAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-05-30T02:53:50.322Z"
+              "WhenOpened": "2024-05-30T02:53:50.322Z",
+              "EditorCaption": ""
             }
           ]
         }

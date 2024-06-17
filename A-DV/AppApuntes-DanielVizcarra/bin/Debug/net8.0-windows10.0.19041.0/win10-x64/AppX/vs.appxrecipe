@@ -10,7 +10,7 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>com.companyname.appapuntesdanielvizcarra</PackageIdentityName>
     <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>
     </WindowsSdkPath>
-    <LayoutDir>C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
+    <LayoutDir>C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
     <RegisteredManifestChecksum>A8463EEDE8437B96C8EBB8FEA6DD65A0DE82E8C92516D51AD33000A3D1CBA01E</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>com.companyname.appapuntesdanielvizcarra_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>com.companyname.appapuntesdanielvizcarra_9zz4h110yvjzm!App</RegisteredUserModeAppID>
@@ -27,284 +27,284 @@
     <RegisteredVersion>1.0.0.1</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-06-17T00:50:56.223</Modified>
+      <Modified>2024-06-17T02:50:38.641</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-06-17T00:50:56.059</Modified>
+      <Modified>2024-06-17T02:50:38.498</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppApuntes-DanielVizcarra.runtimeconfig.json">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppApuntes-DanielVizcarra.runtimeconfig.json">
       <PackagePath>AppApuntes-DanielVizcarra.runtimeconfig.json</PackagePath>
-      <Modified>2024-06-17T00:50:55.812</Modified>
+      <Modified>2024-06-17T01:42:25.945</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppApuntes-DanielVizcarra.dll">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppApuntes-DanielVizcarra.dll">
       <PackagePath>AppApuntes-DanielVizcarra.dll</PackagePath>
-      <Modified>2024-06-17T00:50:54.725</Modified>
+      <Modified>2024-06-17T02:50:37.584</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>AppApuntes-DanielVizcarra.exe</PackagePath>
-      <Modified>2024-06-17T00:50:54.790</Modified>
+      <Modified>2024-06-17T02:50:37.639</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\Resources\Raw\AboutAssets.txt">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
       <Modified>2024-05-29T16:06:30.089</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
       <Modified>2024-05-29T16:06:44.196</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
       <Modified>2024-05-29T16:06:44.210</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
       <Modified>2024-05-29T16:06:44.228</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
       <Modified>2024-05-29T16:06:44.255</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
       <Modified>2024-05-29T16:06:44.350</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
       <Modified>2024-05-29T16:06:30.083</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
       <Modified>2024-05-29T16:06:30.084</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
       <Modified>2024-05-29T16:06:44.438</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
       <Modified>2024-05-29T16:06:44.863</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
       <Modified>2024-05-29T16:06:44.882</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
       <Modified>2024-05-29T16:06:44.899</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
       <Modified>2024-05-29T16:06:44.926</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
       <Modified>2024-05-29T16:06:45.026</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
       <Modified>2024-05-29T16:06:44.568</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
       <Modified>2024-05-29T16:06:44.575</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
       <Modified>2024-05-29T16:06:44.601</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
       <Modified>2024-05-29T16:06:44.582</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
       <Modified>2024-05-29T16:06:44.587</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
       <Modified>2024-05-29T16:06:44.530</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
       <Modified>2024-05-29T16:06:44.535</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
       <Modified>2024-05-29T16:06:44.561</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
       <Modified>2024-05-29T16:06:44.541</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
       <Modified>2024-05-29T16:06:44.547</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
       <Modified>2024-05-29T16:06:44.459</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
       <Modified>2024-05-29T16:06:44.464</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
       <Modified>2024-05-29T16:06:44.472</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
       <Modified>2024-05-29T16:06:44.477</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
       <Modified>2024-05-29T16:06:44.488</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
       <Modified>2024-05-29T16:06:44.494</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
       <Modified>2024-05-29T16:06:44.500</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
       <Modified>2024-05-29T16:06:44.523</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
       <Modified>2024-05-29T16:06:44.505</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
       <Modified>2024-05-29T16:06:44.512</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
       <Modified>2024-05-29T16:06:44.685</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
       <Modified>2024-05-29T16:06:44.694</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
       <Modified>2024-05-29T16:06:44.702</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
       <Modified>2024-05-29T16:06:44.716</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
       <Modified>2024-05-29T16:06:44.741</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
       <Modified>2024-05-29T16:06:44.644</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
       <Modified>2024-05-29T16:06:44.650</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
       <Modified>2024-05-29T16:06:44.657</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
       <Modified>2024-05-29T16:06:44.664</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
       <Modified>2024-05-29T16:06:44.677</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
       <Modified>2024-05-29T16:06:44.607</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
       <Modified>2024-05-29T16:06:44.613</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
       <Modified>2024-05-29T16:06:44.620</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
       <Modified>2024-05-29T16:06:44.627</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
       <Modified>2024-05-29T16:06:44.637</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
       <Modified>2024-05-29T16:06:44.752</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
       <Modified>2024-05-29T16:06:44.765</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
       <Modified>2024-05-29T16:06:44.780</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
       <Modified>2024-05-29T16:06:44.801</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
       <Modified>2024-05-29T16:06:44.849</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
       <Modified>2024-05-30T02:57:49.387</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
       <Modified>2024-05-30T02:57:49.396</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
       <Modified>2024-05-30T02:57:49.407</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
       <Modified>2024-05-30T02:57:49.427</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
       <Modified>2024-05-30T02:57:49.483</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_about.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_about.scale-100.png">
       <PackagePath>icon_about.scale-100.png</PackagePath>
       <Modified>2024-05-30T02:56:46.583</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_about_ios.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_about_ios.scale-100.png">
       <PackagePath>icon_about_ios.scale-100.png</PackagePath>
       <Modified>2024-05-30T02:56:54.496</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_notes.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_notes.scale-100.png">
       <PackagePath>icon_notes.scale-100.png</PackagePath>
       <Modified>2024-05-30T02:56:50.899</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_notes_ios.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_notes_ios.scale-100.png">
       <PackagePath>icon_notes_ios.scale-100.png</PackagePath>
       <Modified>2024-05-30T02:56:58.430</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\AppApuntesDV-DanielVizcarra\A-DV\AppApuntes-DanielVizcarra\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppApuntes-DanielVizcarra.deps.json">
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\GitHub\Vizcarra_TareaMVVM\A-DV\AppApuntes-DanielVizcarra\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppApuntes-DanielVizcarra.deps.json">
       <PackagePath>AppApuntes-DanielVizcarra.deps.json</PackagePath>
-      <Modified>2024-06-17T00:50:55.714</Modified>
+      <Modified>2024-06-17T01:42:25.837</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Daniel\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
@@ -313,6 +313,10 @@
     <AppxPackagedFile Include="C:\Users\Daniel\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\WinRT.Runtime.dll">
       <PackagePath>WinRT.Runtime.dll</PackagePath>
       <Modified>2023-10-16T19:41:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\.nuget\packages\communitytoolkit.mvvm\8.2.2\lib\net6.0\CommunityToolkit.Mvvm.dll">
+      <PackagePath>CommunityToolkit.Mvvm.dll</PackagePath>
+      <Modified>2023-10-24T20:16:06.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Daniel\.nuget\packages\microsoft.extensions.configuration\8.0.0\lib\net8.0\Microsoft.Extensions.Configuration.dll">
       <PackagePath>Microsoft.Extensions.Configuration.dll</PackagePath>

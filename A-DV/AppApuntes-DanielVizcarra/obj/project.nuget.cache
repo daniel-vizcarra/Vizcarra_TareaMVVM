@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "7O5xsX4BPms3h8hZxULJmfk3E6LI5GwMYFeuCOd04++MRGdUOdMad1H0tO1M6PLrmkzI8u9Fz8UaNZBCkHfVZA==",
+  "dgSpecHash": "k5VVTMmlnGU9jJg2WM7MZGr1MXY8CPjbt4bLG8seccFFa/F07O3NH6V/O41ija2Yz5TjqrizvwasynPfEwm3sA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Daniel\\Documents\\GitHub\\AppApuntesDV-DanielVizcarra\\A-DV\\AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj",
+  "projectFilePath": "C:\\Users\\Daniel\\Documents\\GitHub\\Vizcarra_TareaMVVM\\A-DV\\AppApuntes-DanielVizcarra\\AppApuntes-DanielVizcarra.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Daniel\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.2\\communitytoolkit.mvvm.8.2.2.nupkg.sha512",
     "C:\\Users\\Daniel\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
